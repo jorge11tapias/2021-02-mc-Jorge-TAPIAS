@@ -1,7 +1,6 @@
-#modelo exponencial
+##Desarrollo taller 17
 
 import math
-
 def main():
     x = [0.6,1.2,1.8,2.4,3,3.5] #0
     y = [1.5,2,3,4,6,7.2] #1
