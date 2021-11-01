@@ -1,5 +1,4 @@
-public class Taller16 {
-
+public class Taller19 {
     public static void main(String[] args) {
         double sumaX = 0;
         double sumaY = 0;
